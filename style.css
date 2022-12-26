@@ -1,0 +1,39 @@
+.main_users{
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.user{
+    margin:10px;
+    border: 2px solid blue;
+    text-align: center;
+}
+.grp{
+    width: 49%;
+}
+.btn_post{
+
+}
+.btn_div{
+    width: 90%;
+    text-align: center;
+}
+.ps_div{
+    display: flex;
+}
+.ps_main{
+    margin:10px;
+    border: 2px solid aquamarine;
+    text-align: center;
+}
+.comm{
+    margin:10px;
+    border: 2px solid green;
+}
+.cm{
+    font-size: 20px;
+
+}
+.cm_div{display: flex}
